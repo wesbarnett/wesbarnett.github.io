@@ -2,7 +2,7 @@
 
 **Senior Machine Learning Engineer · PhD Engineering · AI/ML · MLOps**
 
-I solve business problems through the design and implementation of end-to-end machine learning products using Python, SQL, Spark, Docker, Kubernetes, and other technologies. I have several years of experience in engineering, statistics, and data science in both academia and industry.
+I solve business problems through the design and implementation of end-to-end machine learning products using Python, SQL, Spark, Docker, Kubernetes, and other technologies. I have experience in engineering, statistics, and data science both in academia and in industry.
 
 I received my PhD in Chemical & Biomolecular Engineering from Tulane University (2017) where I studied supramolecular interactions and the hydrophobic effect using computer simulations. I primarily used Fortran at that time, although I did use some C++. Graduate school was the time where I got into "Big Data", running simulations and analysis programs on super computers and using what is now called "data science" to analyze the data.
 
