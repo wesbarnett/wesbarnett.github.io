@@ -2,9 +2,9 @@
 
 **Senior Machine Learning Engineer · PhD Engineering · AI/ML · MLOps**
 
-I solve business problems through the design and implementation of end-to-end machine learning products using Python, SQL, Spark, Docker, Kubernetes, and other technologies. I have experience in engineering, statistics, and data science both in academia and in industry.
+I solve business problems through the design and implementation of end-to-end machine learning products using Python, SQL, Spark, Docker, Kubernetes, and other technologies. I have over a decade of experience in engineering, statistics, and data science both in academia and in industry.
 
-I received my PhD in Chemical & Biomolecular Engineering from Tulane University (2017) where I studied supramolecular interactions and the hydrophobic effect using computer simulations. I primarily used Fortran at that time, although I did use some C++. Graduate school was the time where I got into "Big Data", running simulations and analysis programs on super computers and using what is now called "data science" to analyze the data.
+I begin my graduate work in 2012 at Tulane University, where I received my PhD in Chemical & Biomolecular Engineering (2017). There I studied supramolecular interactions and the hydrophobic effect using computer simulations. I primarily used Fortran at that time, although I did use some C++. Graduate school was the time where I got into "Big Data", running simulations and analysis programs on super computers and using what is now called "data science" to analyze the data.
 
 After graduate school I joined Columbia University as a postdoctoral research scientist. There I used machine learning to identify high-performance gas separation membranes. I left academia in 2019 when I became a Data Science fellow with Insight Data Science, after which I joined the finance industry as a machine learning engineer.
 
