@@ -8,4 +8,4 @@ I begin my graduate work in 2012 at Tulane University, where I received my PhD i
 
 After graduate school I joined Columbia University as a postdoctoral research scientist. There I used machine learning to identify high-performance gas separation membranes. I left academia in 2019 when I became a Data Science fellow with Insight Data Science, after which I joined the finance industry as a machine learning engineer.
 
-[Github](https://github.com/wesbarnett) · [LinkedIn](https://linkedin.com/in/wesbarnett) · <a rel="me" href="https://fosstodon.org/@barnett">Mastodon</a>
+[Github](https://github.com/wesbarnett) · [LinkedIn](https://linkedin.com/in/wesbarnett) · <a rel="me" href="https://fosstodon.org/@barnett">Mastodon</a> · [Keyoxide](https://keyoxide.org/hkp/F7B28C61944FE30DABEEB0B01070BCC98C18BD66)
