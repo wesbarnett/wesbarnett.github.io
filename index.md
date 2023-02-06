@@ -1,6 +1,6 @@
 # Wes Barnett, PhD
 
-**Senior Machine Learning Engineer · PhD Engineering · AI/ML · MLOps**
+**Machine Learning Engineer · PhD Engineering · AI/ML · MLOps**
 
 I solve business problems through the design and implementation of end-to-end machine learning products using Python, SQL, Spark, Docker, Kubernetes, and other technologies. I have over a decade of experience in engineering, statistics, and data science both in academia and in industry.
 
