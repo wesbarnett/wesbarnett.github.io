@@ -10,4 +10,4 @@ After graduate school I joined Columbia University as a postdoctoral research sc
 
 Outside of work I enjoy hiking, woodworking, and photography. You can find some recent photos [here](https://pixelfed.social/barnett).
 
-[Github](https://github.com/wesbarnett) · [Pixelfed](https://pixelfed.social/barnett) · [LinkedIn](https://linkedin.com/in/wesbarnett) · <a rel="me" href="https://fosstodon.org/@barnett">Mastodon</a> · [Keyoxide](https://keyoxide.org/hkp/F7B28C61944FE30DABEEB0B01070BCC98C18BD66)
+[Github](https://github.com/wesbarnett) · [LinkedIn](https://linkedin.com/in/wesbarnett) · <a rel="me" href="https://fosstodon.org/@barnett">Mastodon</a> · [Pixelfed](https://pixelfed.social/barnett) · [Keyoxide](https://keyoxide.org/hkp/F7B28C61944FE30DABEEB0B01070BCC98C18BD66)
